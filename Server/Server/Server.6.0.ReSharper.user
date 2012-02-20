@@ -1,7 +1,13 @@
 <Configuration>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="FA1A9568-6318-4FB1-A322-1AAF06A6829A/f:index.js" caret="242" fromTop="7" />
+      <File id="FA1A9568-6318-4FB1-A322-1AAF06A6829A/f:requestHandlers.js" caret="381" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FA1A9568-6318-4FB1-A322-1AAF06A6829A/f:index.js" caret="294" fromTop="9" />
+      <File id="FA1A9568-6318-4FB1-A322-1AAF06A6829A/f:requestHandlers.js" caret="381" fromTop="15" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -21,4 +27,9 @@
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="requestHandlers" priority="10" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

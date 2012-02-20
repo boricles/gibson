@@ -1,2 +1,5 @@
-Server/Server.suo
-Server/_ReSharper.Server/
+Server.suo
+_ReSharper.Server/
+bin/
+obj/
+Properties/
